@@ -7,7 +7,7 @@ namespace SocketTcpClient
 {
     class Program
     {
-        static int port = 8005; 
+        static int port = 7985; 
         static string address = "127.0.0.1"; 
         static void Main(string[] args)
         {
