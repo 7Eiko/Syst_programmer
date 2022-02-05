@@ -7,7 +7,7 @@ namespace SocketTcpServer
 {
     class Program
     {
-        static int port = 8005; 
+        static int port = 7985; 
         static void Main(string[] args)
         {
            
